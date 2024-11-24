@@ -1,0 +1,3 @@
+1. A menos que seja acordado o contrário (o que não é recomendado), os jogadores podem reverter as ações e decisões que tomarem durante o seu [[O turno de um jogador|Turno]]. É mais rápido simular o seu turno e mudar de ideia do que tentar planejar tudo em sua cabeça.
+2. Você não pode reverter uma jogada depois que uma nova informação tenha sido revelada (uma peça de Mapa ou carta, ou uma ficha de inimigo), um dado tenha sido rolado ou outro jogador tenha reagido às suas ações (normalmente, em combate de Jogador contra Jogador).
+	1. Uma vez que isso tenha acontecido, todas as decisões, movimentações, cartas jogadas, Poderes e Unidades usadas, mana gasto etc. têm de permanecer como estavam.

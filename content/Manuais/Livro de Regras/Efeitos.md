@@ -1,0 +1,5 @@
+1. [[Cartas de façanha]], [[Usando unidades|Unidades]], [[Usando poderes|fichas de Poder]] e algumas [[Uma rodada do jogo (dia ou noite)#^9bfbe8|cartas de Tática]] fornecem uma série de efeitos que podem ser usados em um [[O turno de um jogador|Turno]].
+	1. Muitos efeitos são descritos de forma abreviada: [[Movimento#^16d40e|Movimento X (ganhe X pontos de Movimento)]] ou [[Ferimentos e cura#^c1d349|Cura X (ganhe X pontos de Cura)]]. Esses termos são explicados nas regras.
+	2. Outros efeitos podem permitir que você modifique as regras no [[O turno de um jogador|Turno]] ou que você obtenha algo que normalmente não seria possível obter. No caso desses efeitos, siga o texto da carta.
+		 - Se o efeito modificar alguns valores ou regras, a mudança se aplica imediatamente e dura até o final do [[O turno de um jogador|Turno]] atual (a menos que algo diga o contrário).
+2. Se você não compreender um efeito ou a interação entre dois ou mais efeitos combinados, consulte as FAQs no website do jogo.

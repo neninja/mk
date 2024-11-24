@@ -1,0 +1,4 @@
+1. Algumas cartas (Concentração, Talento Mágico etc.) permitem que você jogue o efeito de outra carta ou ficha como parte de seu efeito (algumas permitem fazer isso várias vezes – Efeito Máximo).
+	1.  Tudo isso é considerado como um único efeito. Então, por exemplo, você não pode combinar Efeito Máximo com Determinação e usar o Bloqueio contra diferentes ataques inimigos.
+	2. Você tem de respeitar todas as limitações dos efeitos jogados. No que diz respeito às resistências, cada efeito mantém a sua cor, mesmo que o mana não tenha sido pago.
+	3. Caso especial: O Feitiço Curvatura Temporal tem de ser posto de lado após ser jogado. Se você usar outra carta (Talento Mágico) para jogar Curvatura Temporal, aquela carta será posta de lado em vez desta.

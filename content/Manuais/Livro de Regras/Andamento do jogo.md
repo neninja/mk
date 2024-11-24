@@ -1,0 +1,6 @@
+1. Escolha um cenário – Selecione qual cenário do [[Livro de cenários]] será jogado. É possível usar as regras das variantes, desde que todos os jogadores estejam de acordo.
+2. Ordem dos Jogadores/Seleção de Heróis – Determine uma ordem na qual os jogadores selecionarão seus Heróis. Nessa ordem, cada jogador escolhe um dos Heróis disponíveis e pega todos os componentes associados a ele.
+- Quando um jogador escolher um Herói, ele deve colocar na mesa a sua ficha de Ordem na Rodada. As fichas de Ordem na Rodada devem ser colocadas em sequência, formando uma coluna, de modo que a ficha de Ordem na Rodada do jogador que escolheu primeiro esteja no topo, e a do jogador que escolheu por último, na base.
+3. Preparação do Jogo – Siga as instruções da seção [[Preparação para uma partida|"Preparação"]], na próxima página, para montar a área de jogo. Consulte a descrição do cenário para ver se há exceções ou regras especiais que afetem a preparação.
+4. Jogue – Jogue as Rodadas até ter completado as condições de fim de jogo descritas no cenário, ou até ter atingido o limite de Rodadas.
+5. Resultado do Jogo – Quando a partida terminar, siga as regras de pontuação descritas no cenário.

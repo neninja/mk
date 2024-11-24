@@ -1,0 +1,13 @@
+1. Todas as cartas com este verso são cartas de Façanha. Elas consistem em cartas de Ações (Básicas e Avançadas), Feitiços, Artefatos e Ferimentos. No início da partida, os jogadores têm apenas cartas de Ações Básicas em seu baralho de Façanhas.
+2. A cada Turno, os jogadores vão jogar cartas de Façanha de sua Mão. Para jogar uma carta, basta colocá-la em sua Área de Jogo e aplicar o efeito indicado.
+3. Diferentes cartas de Façanha podem ser jogadas de formas variadas:
+	1. Uma carta de Ação (Básica ou Avançada) pode ser jogada pelo seu efeito básico ou pode ser potencializada com um mana da cor indicada para fornecer seu efeito amplificado. A cor de uma carta de Ação é determinada pela cor requerida pelo seu efeito amplificado.
+	2. Um Feitiço pode ser potencializado com um mana da cor indicada para fornecer seu efeito básico. À Noite, ele pode ser potencializado com um mana da cor indicada e um mana preto para fornecer seu efeito amplificado. A cor de um Feitiço é determinada pela cor requerida pelo seu efeito básico.
+	3. Um Artefato pode ser jogado pelo seu efeito básico ou pode ser jogado fora (removido do jogo) para fornecer seu efeito amplificado.
+	4. Cartas de Ferimento não podem ser jogadas de modo algum.
+	5. Qualquer carta que não seja de Ferimento pode ser jogada virada de lado na Área de Jogo para fornecer Movimento 1, Influência 1, Ataque 1 ou Bloqueio 1.
+		- Cartas não podem ser jogadas dessa maneira para fornecer Ataque à Distância, Ataque de Cerco ou qualquer tipo de Ataque ou Bloqueio elemental (Fogo, Gelo ou Fogo Frio)
+4. Cartas que fornecem efeitos semelhantes (mesmo que sejam	 de tipos diferentes) podem ser jogadas juntas para fornecer um efeito cumulativo. Empilhe as cartas jogadas juntas e some os seus efeitos.
+5. Ao final do turno, todas as cartas de Façanha jogadas vão para a sua pilha de Descartes. Cartas não jogadas permanecerão em sua Mão, a menos que você decida descartar uma ou mais delas.
+6. Alguns efeitos de cartas requerem que você pague mana extra de alguma cor, ou descarte (coloque na sua pilha de Descartes) ou jogue fora (remova do jogo) outra carta. Esses efeitos não podem ser jogados se você não puder cumprir o requerimento.
+	- Cartas de Ferimento nunca podem ser descartadas ou jogadas fora dessa forma, a menos que o efeito o permita explicitamente. Assim, “qualquer carta” se refere a qualquer carta normal (que não seja de Ferimento) em sua Mão.

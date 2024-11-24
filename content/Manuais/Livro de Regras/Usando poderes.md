@@ -1,0 +1,9 @@
+1. Os Poderes são representados por fichas de Poder. Cada personagem tem seu próprio conjunto de fichas de Poder.
+2. No início da partida, os jogadores não têm fichas de Poder disponíveis. Sempre que um Herói atingir um nível de Fama par, ele obtém uma ficha de Poder.
+	1. Os jogadores colocam as fichas de Poder que obtiverem voltadas para cima à sua frente.
+	2. Os jogadores podem obter fichas de Poder de seu próprio personagem, mas também de outros personagens em jogo. Se o fizerem, eles podem usar os Poderes dos demais personagens como se fossem seus: uma vez que um Poder está em jogo, não importa mais o conjunto ao qual ele pertence. O uso e o efeito de cada Poder é indicado por ícones na ficha. Eles são descritos detalhadamente na carta de Descrição de Poderes do respectivo personagem.
+3. O uso e o efeito de cada Poder é indicado por ícones na ficha. Eles são descritos detalhadamente na carta de Descrição de Poderes do respectivo personagem.
+4. Os Poderes se dividem em três tipos básicos:
+	1. As fichas de Poder com este símbolo só podem ser usadas uma vez por Rodada, no seu Turno (exceto pelo Poder de Motivação, que pode ser usado durante o Turno de outros jogadores). Se você usar esse tipo de Poder, vire a ficha para baixo até o início da próxima Rodada.
+	2. As fichas de Poder com este símbolo podem ser usadas uma vez por Rodada, mas o efeito persiste até o início do seu próximo Turno. Enquanto ativos, esses Poderes afetam os demais jogadores durante o Turno deles. Ao usar esse tipo de Poder, anuncie em voz alta e coloque a ficha correspondente no centro da mesa. No início do seu próximo Turno (ou quando a Rodada terminar, se for o caso), pegue a ficha de volta e vire-a para baixo. Ela será virada para cima novamente no início da próxima Rodada.
+	3. As fichas de Poder que não têm símbolos especiais podem ser usadas uma vez por Turno.
