@@ -25,6 +25,7 @@ Benefícios a mais dos requisitos obtidos com a stack:
 
 Outras possibilidades de stack:
 - [Amethyst](https://amethyst.bencuan.me): Semelhante ao [Quartz](https://quartz.jzhao.xyz) porém feito com [Hugo](https://gohugo.io/)
+> Apesar de ter um search mobile melhor, ele tem problemas com ids do obsidian `^blabla` e nomes de arquivos no mapa conceitual que requerem utf-8, como `Preparação`
 - Desenvolver o próprio tema com [Hugo](https://gohugo.io/)
 
 ## Como posso contribuir
