@@ -1,5 +1,5 @@
 1. As Rodadas ocorrem sempre de Dia ou de Noite. Os jogadores têm vários Turnos em uma Rodada.
-2. Organizar a Rodada (pule este passo se for a primeira Rodada da partida, pois ele foi feito na preparação):
+2. Organizar a Rodada (pule este passo se for a primeira Rodada da partida, pois ele foi feito na preparação): ^198a79
 	1. Virar o Tabuleiro de Dia/Noite – Se era Dia, vire para o lado da Noite; se era Noite, vire para o lado do Dia.
 	2. Recompor a Fonte – Rerrole todos os dados de mana da Fonte, seguindo as condições descritas na seção [[Preparação para uma partida]].
 	3. Criar uma nova [[Preparação para uma partida#oferta]].
@@ -24,8 +24,8 @@
 	2. Siga as instruções nas cartas de Tática que digam "quando você pegar esta Tática".
 	3. Reorganize as fichas de Ordem na Rodada de acordo com o número da Tática de cada jogador, de modo que o menor número esteja no topo (primeiro), e o maior número esteja na base (último).
 	4. Remova Táticas que não tenham sido escolhidas e deixe-as de lado.
-4. Os jogadores executam seus Turnos:
-	1. Os jogadores realizam seus [[O turno de um jogador|Turnos]] na ordem indicada pelas fichas de Ordem na Rodada (do topo para a base). Depois do último jogador, o primeiro jogador tem um novo Turno.
+4. Os jogadores executam seus Turnos: ^3f9b0e
+	1. Os jogadores realizam seus [[O turno de um jogador|Turnos]] na ordem indicada pelas fichas de Ordem na Rodada (do topo para a base). Depois do último jogador, o primeiro jogador tem um novo Turno. ^dff82f
 	2. Se o baralho de Façanhas de um jogador estiver esgotado no início do seu Turno, ele pode anunciar o Fim da Rodada em vez de jogar o Turno. Se o fizer, cada um dos demais jogadores terá um último Turno e, em seguida, a Rodada acaba.
 	3. No final do Turno de cada jogador, verifique a descrição do Fim do Cenário para saber se as condições foram atingidas. Normalmente, isso permite que todos os jogadores tenham um último Turno antes que a partida termine.
 	4. Se um jogador tiver anunciado o Fim da Rodada e as condições para o Fim do Cenário tiverem sido atingidas, então os jogadores terão um último Turno de acordo com o que aconteceu primeiro (Fim da Rodada ou Fim do Cenário).

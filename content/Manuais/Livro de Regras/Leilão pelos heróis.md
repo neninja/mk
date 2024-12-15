@@ -1,0 +1,10 @@
+> [[Regras Variantes|Variante]] 
+
+Talvez, para você, um Herói pareça melhor ou mais forte que outro, ou talvez ele se encaixe melhor no seu estilo de jogo. E, de fato, para alguns cenários ou outras variantes, alguns Heróis podem ser um pouco mais fortes que outros. De acordo com as regras normais, o jogador que escolher seu personagem primeiro tem uma desvantagem no primeiro Turno, pois ele é o último a escolher uma carta de Tática. Se você sentir que essa desvantagem não é suficiente, você pode usar estas regras:
+- Determine aleatoriamente a ordem para a escolha dos Heróis, seguindo as regras normais.
+- Quando um jogador escolher um Herói, ele pergunta se os demais estão de acordo. Se todos concordarem, o jogador simplesmente pega o Herói e a escolha dele está feita.
+- Qualquer jogador que ainda não tenha pego um Herói pode discordar e oferecer um sacrifício de 1 ou mais pontos de Fama para pegar o Herói em questão. O jogador que escolheu o Herói originalmente tem de igualar a oferta ou abrir mão do Herói.
+- Se mais jogadores estiverem interessados, a próxima oferta tem de ser mais alta. O processo segue em rodadas, como um leilão, exceto pelo fato de que os jogadores que estão à frente na ordem de escolha podem apenas igualar a oferta, não precisando aumentá-la.
+- Quando ninguém mais quiser aumentar a oferta, o jogador que ofereceu mais (ou que igualou a oferta mas estava à frente na ordem de escolha) pega o Herói e perde Fama. Os demais não perdem nada e prosseguem com a escolha de Heróis, sob as mesmas regras, com o próximo jogador (ou o mesmo jogador, caso ele tenha perdido o leilão).
+- Marque a Fama perdida pelo jogador colocando a ficha de Escudo dele na última linha do indicador de Fama (por exemplo, o Escudo é colocado no espaço 118, e é tratado como se fosse -2). Contudo, os Heróis ainda estão no nível 1, e nada acontece quando eles transpuserem a última linha; eles apenas prosseguem para a primeira linha do indicador.
+- As cartas de Tática da primeira Rodada são escolhidas na ordem inversa da escolha de Heróis (não importando a Fama), para compensar pela desvantagem do jogador que foi o último nos leilões.

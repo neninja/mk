@@ -42,14 +42,14 @@
 	2. Algumas cartas permitem a entrada em terrenos inacessíveis pagando um custo. Cuidado - os jogadores devem terminar seu [[O turno de um jogador|Turno]] em um espaço seguro (veja mais adiante), caso contrário, regras de Retirada Forçada se aplicam (consulte a seção [[Fim do turno|"Fim do Turno"]], na p. 11).
 	3. Alguns efeitos permitem diretamente que você se mova um espaço ou mais. Nesse caso, você não paga nenhum custo além do indicado no efeito e também pode cruzar espaços inacessíveis (incluindo aqueles ocupados por inimigos irascíveis ou locais fortificados), a menos que algo diga o contrário.
 		 - Alguns desses efeitos requerem que você termine o movimento em um espaço seguro (veja a seguir).
-	4. Um espaço é considerado como um espaço seguro se:
+	4. Um espaço é considerado como um espaço seguro se: ^7434d0
 		 - For acessível em circunstâncias normais (ou seja, não há efeitos especiais).
 		 - Não for um local fortificado não conquistado ou um forte pertencente a um oponente.
 		 - Não contiver outro Herói, exceto no caso de locais que permitem mais de um Herói (portal ou cidade conquistada).
 8. Outros jogadores:
 	1. Você cruza espaços ocupados pelas miniaturas de outros jogadores, a menos que se trate de um forte pertencente ao jogador.
 		 - É permitido entrar em um espaço com outro jogador, revelar uma ou mais novas peças de Mapa e então prosseguir com o movimento.
-	2. Se você entrar em um espaço com outro jogador e não quiser ou não puder prosseguir com o movimento no Turno, considera-se que você está atacando o outro jogador. Consulte a seção de [[Combate jogador contra jogador]], mais adiante.
+	2. Se você entrar em um espaço com outro jogador e não quiser ou não puder prosseguir com o movimento no Turno, considera-se que você está atacando o outro jogador. Consulte a seção de [[Combate entre jogadores]], mais adiante.
 		 - Se você entrar em um forte pertencente a outro jogador enquanto ele estiver presente, seu movimento acaba imediatamente e é considerado como um ataque ao jogador em questão.
 	3. Um ataque a outro jogador é considerado como a sua ação do Turno. Nunca é permitido que um jogador faça outra ação em um espaço ocupado por outro jogador.
 	4. Em alguns espaços, são permitidas várias miniaturas. Nesses espaços, nunca há combate:

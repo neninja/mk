@@ -1,0 +1,11 @@
+> [[Regras Variantes|Variante]]
+
+# Forma do Mapa e Número de Peças
+A forma do Mapa e o número de peças para os cenários são apenas os padrões recomendados. Se você descobrir que prefere algumas formas de Mapa a outras, se preferir mais ou menos interação no início ou durante a partida, ou se quiser ter mais ou menos peças a explorar, ou mesmo cidades a conquistar, sinta-se à vontade para mudar as formas do Mapa e o número de peças.
+# Orientação Aleatória das Peças
+A orientação das peças normalmente é fixa, e o jogador que as revela não tem opção de como orientá-las. Afinal, os Heróis estão descobrindo um reino desconhecido; eles não estão, por assim dizer, construindo uma cidade medieval no sul da França.
+Porém, após ter jogado muitas partidas, você pode perceber que um número limitado de peças faz com que certos padrões se repitam de tempos em tempos. Se preferir, você pode usar esta regra:
+- Ao revelar uma nova peça (no início ou durante a partida), ela é orientada de maneira aleatória. Adicione-a ao mapa voltada para baixo (para que ninguém possa ver a orientação da peça) e então vire-a (escolhendo o eixo de virada antes de ver o conteúdo da peça).
+Observação: Os símbolos nos cantos ainda têm de se conectar, mas, agora, círculos podem se conectar a estrelas, criando formas irregulares. Cidades Aleatórias As cidades têm uma posição fixa. A cidade Branca sempre está do lado de um lago próximo a um forte, a cidade Vermelha está em um deserto cercado por dragões etc. Essa é a história do jogo, e ela torna as cidades diferentes não apenas pelas guarnições e pelos bônus. Porém, se você quiser ter mais variação, é possível usar estas regras:
+- Sempre que uma peça de cidade for revelada, pegue uma carta de Cidade aleatória e coloque a cidade da cor indicada no espaço central da peça, não importando a cor do espaço.
+Observação: Você pode também usar cidades aleatórias em cenários que têm uma cidade definida (por exemplo: a cidade Verde no cenário “Noites Druídicas”), pois a definição tem a ver com as redondezas da cidade, e não com a sua cor. Nesses casos, use a peça de Mapa do cenário, mas, quando ela for revelada, coloque uma cidade aleatória.

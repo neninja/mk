@@ -12,4 +12,8 @@
 		- Use um ponto de Cura para jogar fora uma carta de Ferimento da Mão (devolva a carta de Ferimento ao baralho de Ferimentos). ^930725
 		- Para curar uma Unidade Ferida, você tem de pagar pontos de Cura iguais ao nível da Unidade (o número no canto superior direito da carta). Se o fizer, remova a carta de Ferimento da Unidade e devolva-a ao baralho de Ferimentos.
 		 - Se a Unidade tiver duas cartas de Ferimento (porque foi exposta a um ataque Venenoso), ela precisa ser curada duas vezes para ficar completamente curada.
-		 - Efeitos que curam uma Unidade se aplicam a um Ferimento da Unidade.	
+		 - Efeitos que curam uma Unidade se aplicam a um Ferimento da Unidade.
+	4. Os jogadores podem usar cura a qualquer momento em seu Turno, exceto em combate.
+		- Dano sofrido em combate pode ser curado no mesmo Turno, assim que o combate tiver terminado.
+		- Pontos de Cura não usados desaparecem no momento em que se entra em combate.
+		- Observação: o local clareira mágica não fornece Cura. O seu efeito não pode ser usado em Unidades e não pode ser combinado com outros efeitos de Cura.
