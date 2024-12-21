@@ -30,7 +30,7 @@ Cada jogador coloca sua ficha de Ordem na Rodada aqui; o primeiro jogador a esco
 # Tabuleiro de Dia/Noite
 No início da partida, coloque o lado do Dia voltado para cima. No início de cada Rodada, esse tabuleiro será virado, de modo que Dia e Noite se alternem.
 - A porção à esquerda do tabuleiro indica os custos de Movimento dos diferentes terrenos.
-- A porção à direita é a Fonte. Role um número de dados igual ao número de jogadores mais 2, e coloque-os na Fonte. Pelo menos a metade dos dados deve ter cores básicas (vermelho, azul, branco ou verde). Caso contrário, rerrole todos os dados pretos e dourados ao mesmo tempo, até que esta condição seja satisfeita.
+- A porção à direita é a Fonte. Role um número de dados igual ao número de jogadores mais 2, e coloque-os na Fonte. Pelo menos a metade dos dados deve ter cores básicas (vermelho, azul, branco ou verde). Caso contrário, rerrole todos os dados pretos e dourados ao mesmo tempo, até que esta condição seja satisfeita. ^a8d214
 # Táticas Diurnas à mostra
 Coloque à mostra e ao alcance de todos as cartas de Tática Diurna.
 # Táticas não usadas
