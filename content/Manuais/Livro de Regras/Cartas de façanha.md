@@ -5,7 +5,7 @@
 	2. Um Feitiço pode ser potencializado com um mana da cor indicada para fornecer seu efeito básico. À Noite, ele pode ser potencializado com um mana da cor indicada e um mana preto para fornecer seu efeito amplificado. A cor de um Feitiço é determinada pela cor requerida pelo seu efeito básico.
 	3. Um Artefato pode ser jogado pelo seu efeito básico ou pode ser jogado fora (removido do jogo) para fornecer seu efeito amplificado.
 	4. Cartas de Ferimento não podem ser jogadas de modo algum.
-	5. Qualquer carta que não seja de Ferimento pode ser jogada virada de lado na Área de Jogo para fornecer Movimento 1, Influência 1, Ataque 1 ou Bloqueio 1.
+	5. Qualquer carta que não seja de Ferimento pode ser jogada virada de lado na Área de Jogo para fornecer Movimento 1, Influência 1, Ataque 1 ou Bloqueio 1. ^09e7ea
 		- Cartas não podem ser jogadas dessa maneira para fornecer Ataque à Distância, Ataque de Cerco ou qualquer tipo de Ataque ou Bloqueio elemental (Fogo, Gelo ou Fogo Frio)
 4. Cartas que fornecem efeitos semelhantes (mesmo que sejam	 de tipos diferentes) podem ser jogadas juntas para fornecer um efeito cumulativo. Empilhe as cartas jogadas juntas e some os seus efeitos.
 5. Ao final do turno, todas as cartas de Façanha jogadas vão para a sua pilha de Descartes. Cartas não jogadas permanecerão em sua Mão, a menos que você decida descartar uma ou mais delas.

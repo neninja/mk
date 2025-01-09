@@ -1,4 +1,4 @@
-1. Você pode completar o seu Turno enquanto o próximo jogador começa o dele. A primeira coisa a fazer é rerrolar e devolver dados de mana usados à Fonte.
+1. Você pode completar o seu Turno enquanto o próximo jogador começa o dele. A primeira coisa a fazer é rerrolar e devolver dados de mana usados à Fonte. ^31734a
 2. Retirada Forçada: Você tem de terminar o seu Turno em um [[Movimento#^7434d0|espaço seguro]] (consulte o parágrafo 7d na seção "[[Movimento]]", na pág. 7). ^84a3cd
 	1. Se você não estiver em um espaço seguro, você tem de voltar atrás até chegar em um espaço seguro.
 	2. Para cada espaço que você volta atrás em sua Retirada Forçada, acrescente um [[Ferimentos e cura|Ferimento]] à sua Mão.

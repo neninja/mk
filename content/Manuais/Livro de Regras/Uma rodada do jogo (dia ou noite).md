@@ -14,7 +14,7 @@
 	6. Recolher as cartas de Tática – Recolha todas as cartas de Tática da Rodada anterior e abra o conjunto apropriado de cartas de Tática na área de jogo, viradas para cima.
 	7. Cada jogador: 
 		- Vira para cima todas as fichas de Poder e os Artefatos de Estandarte em sua área de jogo. Neste momento, cada jogador pode (mas não precisa) descartar Artefatos de Estandarte atribuídos às suas Unidades.
-		 - Deixa preparadas todas as suas Unidades, inclusive as Unidades Feridas (mas elas não são curadas).
+		 - Deixa preparadas todas as suas Unidades, inclusive as Unidades Feridas (mas elas não são curadas). ^68706d
 		 - Embaralha todas as suas cartas de Façanha para criar um novo baralho de Façanhas.
 		 - Compra cartas até atingir o limite da sua Mão. Esse limite pode ser aumentado se o jogador estiver perto de um forte ou de uma cidade – consulte a descrição desses locais. Se estiver próximo aos dois, use apenas o efeito maior. O limite também pode ser aumentado por um efeito que aumente o limite da Mão "na próxima vez em que você comprar cartas", se esse efeito tiver ocorrido no último [[O turno de um jogador]] na Rodada anterior.
 3.	Os jogadores escolhem as cartas de Tática para esta Rodada. ^9bfbe8

@@ -1,8 +1,11 @@
-# Carta do Herói.
-Essa carta representa o seu personagem. Na porção inferior está o Inventário, no qual você armazenará os cristais obtidos durante a partida.
+# Carta do Herói
+Essa carta representa o seu personagem. Na porção inferior está o Inventário, no qual você armazenará os cristais obtidos durante a partida. ^f947ca
 # Pilha de fichas de Nível
 Empilhe as cinco fichas de Nível octogonais voltadas para cima, organizadas em ordem crescente, de modo que o 1-2 esteja no topo e o 9-10 na base. A ficha atual mostra que, nos níveis 1-2, sua Armadura é 2 e o limite da sua Mão é 5. A sexta ficha de Nível (em branco) deve ser colocada com o escudo voltado para cima em sua área de Unidades; ela é uma ficha de Comando.
 # Área de Unidades
+
+^23ee87
+
 Aqui você coloca as Unidades que recrutar. Cada Unidade precisa ter sua própria ficha de Comando. Atualmente, você tem uma ficha de Comando, então só pode ter uma Unidade. Ao avançar para um Nível ímpar, você receberá mais uma
 # Baralho de Façanhas
 Cada jogador embaralha as 16 cartas de Ações Básicas do seu Herói (confira o símbolo no canto superior direito) para criar o seu baralho de Façanhas.

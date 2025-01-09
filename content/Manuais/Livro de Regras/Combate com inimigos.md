@@ -1,8 +1,8 @@
 1. Há várias maneiras de iniciar combate com um inimigo:
-	1. Entrar em um local fortificado ainda não conquistado (forte, torre de mago ou cidade). Isso é considerado uma invasão, e você terá de lutar contra os defensores do local. Eles são sempre fortificados (veja mais adiante). Sempre que iniciar uma invasão, você perde 1 de Reputação, não importando o resultado do combate.
+	1. Entrar em um local fortificado ainda não conquistado (forte, torre de mago ou cidade). Isso é considerado uma invasão, e você terá de lutar contra os defensores do local. Eles são sempre fortificados (veja mais adiante). Sempre que iniciar uma invasão, você perde 1 de Reputação, não importando o resultado do combate. ^5a0751
 		 - Além disso, entrar em um espaço com um forte que pertença a outro jogador conta como uma invasão, e você perde 1 de Reputação. Se o outro jogador estiver presente no forte, você inicia um combate de Jogador contra Jogador. Caso contrário, uma ficha de inimigo cinza aleatória deve ser pega como guarnição do forte (e vale só metade da Fama).
-	2. Se você estiver em um local de aventura com inimigos (calabouço ou sepulcro, covil de monstros ou nascedouro não conquistados, ou ruínas com inimigos), você pode anunciar que sua ação é entrar no local. Isso inicia combate com todos os inimigos presentes no local.
-	3. Se você estiver em um mosteiro, você pode anunciar que está tentando queimá-lo. Se o fizer, você ganha -3 de Reputação e, em seguida, pega uma ficha de inimigo violeta aleatória como defensor.
+	2. Se você estiver em um local de aventura com inimigos (calabouço ou sepulcro, covil de monstros ou nascedouro não conquistados, ou ruínas com inimigos), você pode anunciar que sua ação é entrar no local. Isso inicia combate com todos os inimigos presentes no local. ^0baa47
+	3. Se você estiver em um mosteiro, você pode anunciar que está tentando queimá-lo. Se o fizer, você ganha -3 de Reputação e, em seguida, pega uma ficha de inimigo violeta aleatória como defensor. ^21cf4a
 	4. Se você estiver adjacente a uma ficha de inimigo irascível (orcs saqueadores ou draconum), você pode desafiá-lo a um combate. Se houver inimigos irascíveis em múltiplos espaços adjacentes, você pode optar por desafiar um ou mais deles para um combate. ^a51fbb
 	5. Se você se mover de um espaço adjacente a uma ficha de inimigo irascível para outro espaço adjacente à mesma ficha, isso provocará esse inimigo irascível a te atacar.
 2. Apenas um combate é permitido a cada Turno. Porém, em certas situações, inimigos em múltiplos espaços podem ser combatidos ao mesmo tempo
@@ -59,7 +59,7 @@
 	2. Caso contrário, processe todos os inimigos não bloqueados, um por um, na ordem que preferir.
 2. Cada inimigo causa dano igual ao seu valor de Ataque.
 	1. Se o inimigo tiver a habilidade Brutal , ele causa dano igual ao dobro do valor de Ataque.
-3. Você tem de atribuir todo o dano. Você pode atribuir dano a uma ou mais de suas Unidades não Feridas. O restante é atribuído ao seu Herói.
+3. Você tem de atribuir todo o dano. Você pode atribuir dano a uma ou mais de suas Unidades não Feridas. O restante é atribuído ao seu Herói. ^1586b1
 4. Você pode atribuir dano a uma Unidade desde que ela não esteja Ferida. Unidades Usadas, mas não Feridas, podem ter dano atribuído a elas.
 	1. Sempre que um dano for atribuído a uma Unidade, coloque uma carta de Ferimento na Unidade. Uma Unidade fica Ferida, não importando o quanto de dano foi atribuído a ela. Em seguida, reduza do dano total o valor de Armadura da Unidade.
 		- A atribuição de apenas um ponto de dano pode Ferir uma Unidade com um valor de Armadura mais alto. O valor de Armadura apenas determina quanto de dano ainda resta após a Unidade ter sido Ferida, se houver.
@@ -67,7 +67,7 @@
 		- Primeiro, reduza da quantidade de dano o valor da Armadura da Unidade (sem Ferir a Unidade).
 		- Se isso absorver todo o dano, nada acontece.
 		- Se ainda restar dano, continue a atribuí-lo normalmente, Ferindo a Unidade e reduzindo novamente do total de dano o seu valor de Armadura.
-			- Unidades resistentes a um determinado tipo de Ataque podem absorver o dobro de dano em relação ao seu valor de Armadura, e só são Feridas se o dano for maior do que a sua Armadura.
+			- Unidades resistentes a um determinado tipo de Ataque podem absorver o dobro de dano em relação ao seu valor de Armadura, e só são Feridas se o dano for maior do que a sua Armadura. ^795a90
 		- Se atribuir dano a uma Unidade, e ela não for Ferida por causa da resistência, você não pode atribuir dano a ela novamente no mesmo combate.
 5. Se você não puder ou não quiser atribuir dano a uma Unidade, ou se ainda restar dano após ter atribuído dano às suas Unidades, você tem de atribuir todo o dano restante ao seu Herói. Isto é feito repetidamente até que todo o dano tenha sido atribuído:
 	1. Para atribuir dano ao seu Herói, coloque uma carta de Ferimento em sua Mão e reduza do total de dano o valor de Armadura do seu Herói (o número à esquerda na ficha de Nível do seu Herói).

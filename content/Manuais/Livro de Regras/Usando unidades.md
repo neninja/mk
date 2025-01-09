@@ -6,7 +6,7 @@
 	- Unidades com uma carta de Ferimento atravessada sobre elas são consideradas Feridas.
 4. Unidades recém-recrutadas sempre entram Preparadas e não Feridas.
 	- Se você quiser recrutar uma nova Unidade, mas todas as suas fichas de Comando estiverem em uso, você deve dispensar uma de suas Unidades. Unidades dispensadas devem ser removidas do jogo. A Unidade recém-recrutada entra Preparada e não Ferida, independente do estado da Unidade dispensada.
-5. Uma Unidade Preparada e não Ferida pode ser ativada por uma de suas habilidades.
+5. Uma Unidade Preparada e não Ferida pode ser ativada por uma de suas habilidades. ^ab4c8a
 	- Para ativar uma Unidade, coloque a ficha de Comando associada em cima dela – a Unidade não está mais Preparada; ela é considerada como Usada até o final da Rodada.
 	- Em seguida, escolha uma das habilidades indicadas na carta da Unidade e aplique o efeito. Você pode combiná-lo com o efeito de outras cartas de Façanha, Poderes e Unidades.
 		 - Para escolher uma habilidade que tenha um símbolo de mana na frente, você precisa primeiro pagar mana da cor correspondente.
