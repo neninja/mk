@@ -1,0 +1,1 @@
+Cada cenário desta seção apresenta uma visão geral que se aplica a todas as versões do cenário, descrevendo em seguida as informações para cada uma das variantes: competitiva, cooperativa e solo.
