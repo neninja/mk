@@ -1,6 +1,6 @@
 # MK
 
-Instruções referenciadas do jogo [Mage Knight](https://ludopedia.com.br/jogo/mage-knight-ultimate-edition)
+Instruções referenciadas do jogo [Mage Knight](https://ludopedia.com.br/jogo/mage-knight-ultimate-edition). Nesse projeto está somente a camada de visualização, o conteúdo está no projeto [man-mk](https://github.com/neninja/man-mk) e por lá que será versionado.
 
 ## Utilização
 
@@ -42,12 +42,17 @@ npm i
 
 ### Execução
 
-1. Subir o servidor
 ```sh
 npx quartz build --serve
 ```
 
-2. Abro um *vault* do Obsidian diretamente na pasta [content](/content)
+### Atualização de conteúdo
+
+O conteúdo está versionado no projeto [man-mk](https://github.com/neninja/man-mk) para tornar o versionamento mais específico, ao invés de detalhes de implementação da aplicação. Dessa forma é utilizado o recurso de submodulo do git. Para atualizar o submodulo desse projeto, use o comando abaixo
+
+```sh
+git submodule update --init --recursive
+```
 
 ### Deploy
 
