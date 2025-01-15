@@ -10,19 +10,11 @@ As fichas de inimigo verdes, marrons e vermelhas devem ser separadas por facçõ
 Ao posicionar inimigos irascíveis, use fichas dos Cruzados Sombrios para peças de mapa do norte e dos Elementalistas para peças de mapa do sul. Se a peça de mapa estiver no meio das duas, coloque uma ficha de inimigo de facção aleatória (veja página 20). Os diagramas ao lado mostram quais peças de mapa são do norte, quais são do sul e quais ficam no meio:
 
 ## Clareiras Mágicas
-Sempre que uma Clareira Mágica for revelada em uma peça de
-mapa de campo no sul, coloque uma ficha de inimigo Elementalista
-verde e uma marrom sobre ela voltadas para cima.
+Sempre que uma Clareira Mágica for revelada em uma peça de mapa de campo no sul, coloque uma ficha de inimigo Elementalista verde e uma marrom sobre ela voltadas para cima.
 
-Sempre que uma Clareira Mágica for revelada em uma peça de
-mapa de campo no norte, coloque uma peça de Cemitério sobre
-ela e em seguida uma ficha de inimigo Cruzado Sombrio verde e
-uma marrom voltadas para cima sobre a peça do Cemitério.
+Sempre que uma Clareira Mágica for revelada em uma peça de mapa de campo no norte, coloque uma peça de Cemitério sobre ela e em seguida uma ficha de inimigo Cruzado Sombrio verde e uma marrom voltadas para cima sobre a peça do Cemitério.
 
-Sempre que uma Clareira Mágica for revelada em uma peça de
-mapa entre o norte e o sul, coloque uma ficha de inimigo de uma
-facção aleatória: fichas de inimigo dos Elementalistas ou uma peça
-de Cemitério com fichas de inimigo dos Cruzados Sombrios
+Sempre que uma Clareira Mágica for revelada em uma peça de mapa entre o norte e o sul, coloque uma ficha de inimigo de uma facção aleatória: fichas de inimigo dos Elementalistas ou uma peça de Cemitério com fichas de inimigo dos Cruzados Sombrios
 
 ## Libertar Local
 Para libertar uma Clareira Mágica ou um Cemitério, se estiver no espaço deles, você pode adentrá-los (como uma Ação). Lute contra ambos os inimigos. Se você não derrotar os dois inimigos, quaisquer fichas que restarem permanecem no espaço. Eles podem ser atacados novamente em outro turno mais tarde.
