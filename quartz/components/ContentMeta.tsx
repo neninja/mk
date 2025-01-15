@@ -28,7 +28,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
-      segments.push(<a href={'http://github.com/neninja/mk/edit/main/' + fileData.filePath}>FIXME ✏️</a>)
+      segments.push(<a href={'http://github.com/neninja/man-mk/edit/main/' + fileData.filePath.replace('content/', '')}>FIXME ✏️</a>)
 
       if (fileData.dates) {
         segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
