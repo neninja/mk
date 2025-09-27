@@ -1,5 +1,7 @@
 # MK
 
+> **Projeto parado pois quartz é muito ruim de usar, preciso de tempo para desenvolver minha própria solução infelizmente**.
+
 Instruções referenciadas do jogo [Mage Knight](https://ludopedia.com.br/jogo/mage-knight-ultimate-edition). Nesse projeto está somente a camada de visualização, o conteúdo está no projeto [man-mk](https://github.com/neninja/man-mk) e por lá que será versionado.
 
 ## Utilização
