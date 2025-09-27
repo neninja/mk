@@ -51,7 +51,7 @@ npx quartz build --serve
 O conteúdo está versionado no projeto [man-mk](https://github.com/neninja/man-mk) para tornar o versionamento mais específico, ao invés de detalhes de implementação da aplicação. Dessa forma é utilizado o recurso de submodulo do git. Para atualizar o submodulo desse projeto, use o comando abaixo
 
 ```sh
-git submodule update --init --recursive
+git submodule update --remote --recursive
 ```
 
 ### Deploy
